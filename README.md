@@ -1,4 +1,4 @@
-Nifty
+Niftysmart
 =====
 
-Nifty connects to your smarthome
+Niftysmart connects to your home
